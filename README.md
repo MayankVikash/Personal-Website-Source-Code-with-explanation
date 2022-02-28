@@ -1,2 +1,2 @@
-# Personal-Website-Source-Code-with-explanation
-Learn how to make a personal website with source code.
+# Projects created by me
+I love making random stuff and here I will upload them.
